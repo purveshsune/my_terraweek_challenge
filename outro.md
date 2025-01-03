@@ -9,6 +9,6 @@ Here’s to continuous growth and excellence in the ever-evolving world of DevOp
 
 ---
 ## Acknowledgment
-To ensure proper documentation and formatting throughout this challenge, I utilized ChatGPT to streamline and refine the content. This tool proved invaluable in organizing and presenting the information clearly and effectively. A big thanks to AI for enhancing this learning experience! 🤖✍️
+To ensure proper documentation and formatting throughout this challenge, I utilized ChatGPT to streamline and refine the content. This tool proved invaluable in organizing and presenting the information clearly and effectively.
 
 ---
